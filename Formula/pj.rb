@@ -1,8 +1,8 @@
 class Pj < Formula
   desc "Project launcher CLI with fuzzy matching"
   homepage "https://github.com/alceal/pj"
-  url "https://github.com/alceal/pj/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "bc7dd0c7c62d72111072801b5af436fc54c9727249645ec0ae00358d3ee1d143"
+  url "https://github.com/alceal/pj/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "b4036735c5ee003bf77de429f3204bfe0edc1b0ca486c4070a0e260391abd2c0"
   license "MIT"
 
   depends_on "rust" => :build
