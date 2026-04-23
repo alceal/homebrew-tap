@@ -14,3 +14,4 @@ brew install pj
 | Formula | Description |
 |---------|-------------|
 | [pj](https://github.com/alceal/pj) | Project launcher CLI with fuzzy matching |
+| [reddit-cli](https://github.com/alceal/reddit-cli) | Command-line Reddit client with security hardening |
